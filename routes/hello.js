@@ -8,3 +8,9 @@ exports.view = function(req, res){
   	'name': '',
   });
 };
+
+// exports.view = function(req, res){
+//   res.nameToShow('hello', {
+//   	'name': nameToShow,
+//   });
+// };
